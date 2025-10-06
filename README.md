@@ -6,6 +6,15 @@ Create a cover background that shows a calendar.
 
 ## Environment
 
-- [jest](https://jestjs.io/)
-- [playwright](https://playwright.dev/)
 - [typescript](https://www.typescriptlang.org/)
+- [vite](https://vite.dev/)
+  - [vitest](https://vitest.dev/)
+- [playwright](https://playwright.dev/)
+
+Easily enough with
+
+```sh
+pnpm install
+```
+
+or whatever manager you use.
